@@ -161,4 +161,13 @@ main {
   .main-heading {
     width: 90%;
   }
+
+  .image {
+    width: min(95%, 350px);
+  }
+
+  .scarecrow {
+    width: 100%;
+    height: auto;
+  }
 }

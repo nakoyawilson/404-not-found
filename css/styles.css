@@ -113,7 +113,7 @@ main {
 /* Media Queries */
 @media screen and (max-width: 1240px) {
   .container {
-    width: 23.4375rem;
+    width: min(100%, 23.4375rem);
     padding: 1.25rem 1.5rem;
   }
   .main-container {
